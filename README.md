@@ -1,5 +1,7 @@
 # Cloud Load Balancing thorugh VM allocation policies
 
+[NOT MAINTAINED ANYMORE]
+
 A collaborative research project towards completion of CS218 - Topics in Cloud Computing.
 
 This project consists of 3 VM allocation policies implemented in CloudSim-
